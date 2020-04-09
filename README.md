@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/Hikmatkanaan/GitHub%20%20calculator/_apis/build/status/Hikmatkanaan.calculator?branchName=master)](https://dev.azure.com/Hikmatkanaan/GitHub%20%20calculator/_build/latest?definitionId=1&branchName=master)
